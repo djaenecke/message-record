@@ -1,6 +1,9 @@
 Lousson: Message/Record
 =======================
 
+[![Build Status](https://travis-ci.org/lousson/message-record.png?branch=master)]
+(https://travis-ci.org/lousson/message-record)
+
 The `Lousson_Message_Record` package is an extension of the facilities
 provided by `Lousson_Record`, consisting of a set of decorators to ease
 the creation and exchange of record messages.
